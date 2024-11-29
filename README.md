@@ -13,7 +13,7 @@ This project is a machine learning application to classify emails as "Spam" or "
 3. Run all cells sequentially.
 
 ## Results
-- Model Accuracy: 98% (example)
+- Model Accuracy: 98% 
 
 ## Dataset
 Dataset used: [SMS Spam Collection](https://www.kaggle.com/uciml/sms-spam-collection-dataset)
